@@ -21,7 +21,7 @@
     </td>
     <td width="50%" align="center">
       <p><b>📊 GitHub Analytics</b></p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Valedicode&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Valedicode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
     </td>
     <td width="50%" align="center">
        <p><b>🔥 Most Used Languages</b></p>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valedicode&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valedicode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
     </td>
   </tr>
 </table>

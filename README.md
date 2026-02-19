@@ -1,4 +1,4 @@
-# 🚀 Valedicode | M.Sc. CS @ RWTH Aachen
+# 🚀 Kevin Ha | M.Sc. CS @ RWTH Aachen
 
 **Generative AI & Agents** | LangGraph • LangChain • AI SDK 5 • Agentic Workflows
 
